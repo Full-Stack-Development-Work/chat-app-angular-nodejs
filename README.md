@@ -1,4 +1,4 @@
-# Chat-aap-in-angular-and-nodejs-with-mongodb
+# Chat-aap-angular-nodejs-with-mongodb
 A simple chat application for group chat built in angular, node(used expressjs) and mongodb
 
 Simply clone the repo and run npm install in both folders frontend and backend to download the dependencies.
